@@ -1,4 +1,4 @@
-#Coffee Order Sales Analysis
+# Coffee Order Sales Analysis
 
 ## 1. Introduction
 ### a. Project Background and Objectives
