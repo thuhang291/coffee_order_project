@@ -83,6 +83,7 @@ Create filters to allow users to interact with the data based on the following c
 - Loyalty card
 
 ### c. Coffee Sale Dashboard
+![coffee_sales_dashboard](https://github.com/user-attachments/assets/d8fc6fa6-671f-44dc-aa31-5dd3a0f20a12)
 
 ## 4. Recommendations and Actionable Steps
 ### a. Product Analysis:
